@@ -1,0 +1,6 @@
+@AgarthaWebApi_HostAddress = http://localhost:5058
+
+GET {{AgarthaWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
